@@ -4,7 +4,7 @@
 .icons{padding:15px;font-size:30px;margin-right: 210px}
 .visit{display:flex;align-items:center;justify-content: space-around;background:white;border-top: 1px solid #e1e1e1;}
 .jam{margin-right:25px;display:flex;align-items:center;font-size:25px;padding: 15px}
-.jam p{marin-right:15px;}
+.jam p{margin-right:15px;}
 .iu{border-right:2px solid #e1e1e1;padding-right: 20px}
 .strong{font-size:13px;}
 .iu{margin-right: 20px}
@@ -214,8 +214,7 @@
 .kko{margin-top: 20px}
 .red{display: block;text-align: center;}
 .kkl{display: flex;justify-content: center;}
-.book{margin-left: 15px;padding: 15px 50px}
-.book1{padding: 15px 50px}
+.book{margin-left: 15px;}
 .kk0{margin-top: 20px}
 .red{text-align: center;width: 100%}
 .row0{display: none }
@@ -255,13 +254,10 @@
 .text{width: 100%}
 .kju{width:calc(100% - 15px);}
 .get{padding: 0px}
-.book1{padding: 0px}
-.book{padding: 0px}
 .our h1{width: 100%;text-align: center;}
 .take{display: block;}
 .index h1{font-size: 15px}
 .link{width: 100%}
-.book{padding: 0px 40px}
 .than{font-size: 25px}
 .kko{margin-top: 40px} 
 .lop1{width: 100%}
