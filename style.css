@@ -281,7 +281,7 @@
  .cl{width: 90%}
  .nkar2{width: 90%}
  .sam{padding: 0px}
- .rw{width: 90%;padding: 15px;}
+ .rw{width: 90%;padding: 15px;margin-top: 20px;}
  .tea{width: 90%;padding: 0px}
  .hot{width: 90%;padding: 0px}
  .laun{width: 90%;padding: 0px}
@@ -315,6 +315,8 @@
 .kri{margin-top: 25px}
 .toq{margin-top: 20px;}
 .lop{margin-top: 20px;}
+.tiv{margin-top: 20px;}
+.rw p{line-height: 20px;}
 }
 
 
