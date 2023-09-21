@@ -250,7 +250,7 @@
 .ttp p{width:90%;margin-left: 20px}
 .kju:hover{cursor: pointer;}
 .to{padding: 20px}
-.kkl{width: 90%}
+.kkl{width: 90%;padding: 15px;}
 .text{width: 100%}
 .kju{width:calc(100% - 15px);}
 .get{padding: 0px}
@@ -265,10 +265,10 @@
 .lop3{display: none;}
 .lop4{display: none;}
 .lop5{display: none;}
-.kri{width: 90%;padding: 0px}
-.ut{width:90%;padding: 0px}
-.pol{width: 90%;padding: 0px}
-.usu1{width: 90%;display: block;}
+.kri{width: 95%;padding: 0px}
+.ut{width:90%;padding: 10px;}
+.pol{width: 95%;padding: 0px;margin-top: 20px;}
+.usu1{width: 100%;display: block;}
 .ere{display: flex;justify-content: center;}
 .per{margin-right: 35px}
 .usu1 p{margin: 5px}
@@ -281,7 +281,7 @@
  .cl{width: 90%}
  .nkar2{width: 90%}
  .sam{padding: 0px}
- .rw{width: 90%}
+ .rw{width: 90%;padding: 15px;}
  .tea{width: 90%;padding: 0px}
  .hot{width: 90%;padding: 0px}
  .laun{width: 90%;padding: 0px}
